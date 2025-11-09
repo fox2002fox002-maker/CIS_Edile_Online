@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.csi.edile.app-debug-5:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/root/CIS_Edile_Online/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "1,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "16,61,106",
+                        "endColumns": "44,44,42",
+                        "endOffsets": "56,101,144"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,100,145",
+                        "endColumns": "44,44,42",
+                        "endOffsets": "95,140,183"
+                    }
+                },
+                {
+                    "source": "/root/CIS_Edile_Online/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "361"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "980",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "1325"
+                    }
+                },
+                {
+                    "source": "/root/CIS_Edile_Online/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "46",
+                        "endOffsets": "58"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "188",
+                        "endColumns": "46",
+                        "endOffsets": "230"
+                    }
+                },
+                {
+                    "source": "/root/CIS_Edile_Online/app/build/generated/res/processDebugGoogleServices/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,200,283,387,497,617,724",
+                        "endColumns": "144,82,103,109,119,106,75",
+                        "endOffsets": "195,278,382,492,612,719,795"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "235,380,463,567,677,797,904",
+                        "endColumns": "144,82,103,109,119,106,75",
+                        "endOffsets": "375,458,562,672,792,899,975"
+                    }
+                }
+            ]
+        }
+    ]
+}

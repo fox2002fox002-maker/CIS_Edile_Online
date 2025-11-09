@@ -1,0 +1,8 @@
+com.csi.edile.app-pngs-0 /root/CIS_Edile_Online/app/build/generated/res/pngs/debug
+com.csi.edile.app-res-1 /root/CIS_Edile_Online/app/build/generated/res/processDebugGoogleServices
+com.csi.edile.app-resValues-2 /root/CIS_Edile_Online/app/build/generated/res/resValues/debug
+com.csi.edile.app-packageDebugResources-3 /root/CIS_Edile_Online/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.csi.edile.app-packageDebugResources-4 /root/CIS_Edile_Online/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.csi.edile.app-debug-5 /root/CIS_Edile_Online/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.csi.edile.app-debug-6 /root/CIS_Edile_Online/app/src/debug/res
+com.csi.edile.app-main-7 /root/CIS_Edile_Online/app/src/main/res

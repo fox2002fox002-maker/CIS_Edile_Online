@@ -1,0 +1,64 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:1:1-25:12
+	package
+		ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:7:5-24:19
+INJECTED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:7:5-24:19
+	android:extractNativeLibs
+		INJECTED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml
+	android:supportsRtl
+		ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:10:9-48
+	android:icon
+		ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:13:9-46
+activity#com.csi.edile.MainActivity
+ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:15:9-22:20
+	android:exported
+		ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml
+INJECTED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /root/CIS_Edile_Online/app/src/main/AndroidManifest.xml

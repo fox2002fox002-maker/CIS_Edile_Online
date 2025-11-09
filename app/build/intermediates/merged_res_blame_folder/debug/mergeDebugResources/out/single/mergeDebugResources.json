@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.csi.edile.app-debug-5:/drawable_ic_logo.xml.flat",
+        "source": "com.csi.edile.app-main-7:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.csi.edile.app-debug-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.csi.edile.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
